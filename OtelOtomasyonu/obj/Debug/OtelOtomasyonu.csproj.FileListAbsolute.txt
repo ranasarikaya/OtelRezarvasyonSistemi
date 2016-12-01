@@ -1,0 +1,39 @@
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form1.resources
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form2.resources
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.musteriformu.resources
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.musterilistesi.resources
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.odakayit.resources
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.rezervasyon.resources
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.odalistesi.resources
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.misafirler.resources
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.kullaniciayarlari.resources
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.otelbilgileri.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form1.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form2.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.kullaniciayarlari.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.misafirler.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.musteriformu.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.musterilistesi.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.odakayit.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.odalistesi.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.otelbilgileri.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.rezervasyon.resources
+C:\Users\HP\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
+I:\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+I:\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+I:\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb

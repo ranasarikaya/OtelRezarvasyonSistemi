@@ -1,0 +1,9 @@
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\x86\Debug\OtelOtomasyonu.exe.config
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\x86\Debug\OtelOtomasyonu.exe
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\bin\x86\Debug\OtelOtomasyonu.pdb
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\x86\Debug\OtelOtomasyonu.Form1.resources
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\x86\Debug\OtelOtomasyonu.Properties.Resources.resources
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\x86\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\x86\Debug\OtelOtomasyonu.exe
+c:\users\m.demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\x86\Debug\OtelOtomasyonu.pdb
+C:\Users\M.Demirbilek\documents\visual studio 2015\Projects\OtelOtomasyonu\OtelOtomasyonu\obj\x86\Debug\OtelOtomasyonu.csprojResolveAssemblyReference.cache
